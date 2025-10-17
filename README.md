@@ -13,8 +13,8 @@
   numero_secreto = random.randint(1,50)
 
   Mails del equipo:
-       mandreamarcos@hotmail.com
-       alexisjklm111@gmail.com
-       gutierrezleoneltomas@gmail.com
+       mandreamarcos@hotmail.com;
+       alexisjklm111@gmail.com;
+       gutierrezleoneltomas@gmail.com;
        gustavocamussi@yahoo.com.ar
 """
